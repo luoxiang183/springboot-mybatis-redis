@@ -1,0 +1,27 @@
+# Java class files
+*.class
+*.log
+*.lock
+*.bak
+*.epoch
+
+# generated files
+target/
+gen/
+bin/
+
+# project
+.classpath
+.settings/
+.project
+
+# idea ignore
+.idea/
+*.ipr
+*.iml
+*.iws
+
+# disconf
+disconf/download
+
+.DS_Store
